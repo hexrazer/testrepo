@@ -1,3 +1,0 @@
-Test 2 file for demo purposes
-edited the file from remote repository
-
